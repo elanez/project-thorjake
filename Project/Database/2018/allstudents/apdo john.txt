@@ -1,0 +1,16 @@
+20180003
+john
+henry
+apdo
+31/12/2010
+Single 
+Male
+cavite
+09696969696
+pilipino
+Grade 7
+Section A
+True
+True
+True
+True

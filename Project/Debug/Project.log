@@ -1,0 +1,12 @@
+﻿  Enroll.cpp
+  Gradsys.cpp
+  Login.cpp
+  Mainmenu.cpp
+  Pendlist.cpp
+  Studlist.cpp
+  functions.cpp
+  Generating Code...
+c:\users\elan fernandez\onedrive\documents\c++\project\project\functions.cpp(66): warning C4715: 'calc_yrlvl': not all control paths return a value
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Enroll.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project.vcxproj -> C:\Users\Elan Fernandez\OneDrive\Documents\C++\Project\Debug\Project.exe
